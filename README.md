@@ -18,7 +18,7 @@ All hackathon information will be posted here as well as in our [Discord](), whe
 
 --------------------------------
 ## Schedule
-| Date |  |
+|  |  |
 | --- | --- |
 | Friday, Oct 28 | Registration Deadline |
 | Monday, Oct 31 | Teams Formed and Project Details Announced |
