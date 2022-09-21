@@ -1,4 +1,4 @@
-# UCLA 2022 Qiskit Fall Fest
+# UCLA 2022 Qiskit Fall Fest Hackathon
 ## Overview
 This is the Qiskit Fall Fest event for UCLA hosted by our Quantum Computing Student Association ([QCSA](https://qcsa.cqse.ucla.edu/)). The event is organized by our leadership team as part of the [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) and supported by IBM Quantum.
 
