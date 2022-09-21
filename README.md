@@ -4,7 +4,7 @@ This is the Qiskit Fall Fest event for UCLA hosted by our Quantum Computing Stud
 
 Our hackathon will run from Oct 31, 2022 to Sept 9, 2022, and we're welcoming students and teams from both UCLA and UC Berkeley in collaboration with UC Berkeley's undergraduate quantum computing group, [QCB](https://qcb.berkeley.edu/). No experience with quantum programming is necessary, and participating is a great way to learn about Qiskit and meet others interested in quantum computing!
 
-All hackathon information will be posted here as well as in our [Discord](), where you can connect with fellow attendees and ask our leadership team questions! We'll post more details in the next few weeks and we'll announce project and submission instructions on the competition start date.
+All hackathon information will be posted here as well as in our [Discord](), where you can connect with fellow attendees and ask our leadership team questions! We'll post more details in the next few weeks and we'll announce project and submission instructions [here](https://github.com/amandajyounes/UCLA_fallfest_2022/blob/main/project_submissions_guidelines.md) on the competition start date.
 
 --------------------------------
 ## Registration
