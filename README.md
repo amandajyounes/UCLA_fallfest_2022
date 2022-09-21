@@ -9,7 +9,7 @@ All hackathon information will be posted here as well as in our [Discord](), whe
 --------------------------------
 ## Registration
 - This is a hackathon for UCLA and UC Berkeley students only
-- To sign up, register using [this link](). You will be able to form your own group of up to 5 students or be placed in a group
+- To sign up, register using [this form](https://forms.gle/fJFv116oVi8bctWe7). You will be able to form your own group of up to 5 students or be placed in a group
 
 ## Details
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can learn more about Qiskit and begin getting familiar [here](https://qiskit.org/learn/)
