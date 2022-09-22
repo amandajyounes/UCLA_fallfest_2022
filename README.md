@@ -18,7 +18,7 @@ All hackathon information will be posted here. We'll post more details in the ne
 
 --------------------------------
 ## Schedule
-|  |  |
+| Date | Event |
 | --- | --- |
 |  | Workshop (tentative) |
 | Friday, Oct 28 | Registration Deadline |
