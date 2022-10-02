@@ -24,6 +24,7 @@ All hackathon information will be posted here. We'll post more details in the ne
 | Friday, Oct 28 | Registration Deadline |
 | Monday, Oct 31 | Teams Formed and Project Details Announced |
 |  | Kickoff Talk (tentative) |
+| TBD | Tentative additional talk(s) |
 | Wednesday, Nov 9 | Submissions Due |
 | Friday, Nov 11 | Submissions Presented and Winners Announced |
 
