@@ -15,6 +15,7 @@ All hackathon information will be posted here. We'll post more details in the ne
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can learn more about Qiskit and begin getting familiar [here](https://qiskit.org/learn/)
 - We will announce a submission format, project guidelines, and project suggestions at the start of the hackathon on Oct 31
 - You cannot start your project before the start date on Oct 31, and you must submit by the deadline of Nov 8 at 11:59 PM
+- We will have a kickoff talk on the start date by Kevin Roche from IBM Research Almaden, who will be talking about building a quantum ecosystem as well as giving an overview of opportunities at IBM Research.
 
 --------------------------------
 ## Schedule
@@ -22,8 +23,8 @@ All hackathon information will be posted here. We'll post more details in the ne
 | --- | --- |
 |  | Workshop (tentative) |
 | Friday, Oct 28 | Registration Deadline |
-| Monday, Oct 31 | Teams Formed and Project Details Announced |
-|  | Kickoff Talk (tentative) |
+| Monday, Oct 31, 5PM | Kickoff Talk by Kevin Roche from IBM Research Almaden |
+|  | Project and Submission Details Announced |
 | TBD | Tentative additional talk(s) |
 | Wednesday, Nov 9 | Submissions Due |
 | Friday, Nov 11 | Submissions Presented and Winners Announced |
