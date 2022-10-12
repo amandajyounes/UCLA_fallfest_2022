@@ -24,7 +24,7 @@ All hackathon information will be posted here. We'll post more details in the ne
 | --- | --- |
 | Friday, Oct 21 | Intro to Qiskit Workshop, held by QCB |
 | Friday, Oct 28 | Registration Deadline |
-| Monday, Oct 31, 5PM | Kickoff Talk by Kevin Roche from IBM Research Almaden |
+| Monday, Oct 31 | Kickoff Talk by Kevin Roche from IBM Research Almaden |
 |  | Project and Submission Details Announced |
 | TBD | Tentative additional talk(s) |
 | Wednesday, Nov 9 | Submissions Due |
