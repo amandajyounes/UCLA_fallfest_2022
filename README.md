@@ -6,6 +6,8 @@ Our hackathon will run from Oct 31, 2022 to Sept 9, 2022, and we're welcoming st
 
 All hackathon information will be posted here. We'll post more details in the next few weeks and we'll announce project and submission instructions [here](https://github.com/amandajyounes/UCLA_fallfest_2022/blob/main/project_submissions_guidelines.md) on the competition start date.
 
+Please direct any logistical questions to our club email, quantum.ucla@gmail.com
+
 --------------------------------
 ## Registration
 - This is a hackathon for UCLA and UC Berkeley students only
