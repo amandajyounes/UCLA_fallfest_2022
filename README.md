@@ -17,14 +17,14 @@ Please direct any logistical questions to our club email, quantum.ucla@gmail.com
 - All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can learn more about Qiskit and begin getting familiar [here](https://qiskit.org/learn/)
 - We will announce a submission format, project guidelines, and project suggestions at the start of the hackathon on Oct 31
 - You cannot start your project before the start date on Oct 31, and you must submit by the deadline of Nov 8 at 11:59 PM
-- The Berkeley group will be running an intro to Qiskit workshop, scheduled for Friday, Oct 21. This is a good way to get started with Qiskit prior to the hackathon, and we recommend attending if possible.
+- The Berkeley group will be running an intro to Qiskit workshop, scheduled for the week of Oct 24. This is a good way to get started with Qiskit prior to the hackathon, and we recommend attending if possible.
 - We will have a kickoff talk on the start date by Kevin Roche from IBM Research Almaden, who will be talking about building a quantum ecosystem as well as giving an overview of opportunities at IBM Research.
 
 --------------------------------
 ## Schedule
 | Date | Event |
 | --- | --- |
-| Friday, Oct 21 | Intro to Qiskit Workshop, held by QCB |
+| TBD | Intro to Qiskit Workshop, held by QCB |
 | Friday, Oct 28 | Registration Deadline |
 | Monday, Oct 31 | Kickoff Talk by Kevin Roche from IBM Research Almaden |
 |  | Project and Submission Details Announced |
