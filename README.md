@@ -28,7 +28,6 @@ Please direct any logistical questions to our club email, quantum.ucla@gmail.com
 | Friday, Oct 28 | Registration Deadline |
 | Monday, Oct 31 | Kickoff Talk by Kevin Roche from IBM Research Almaden |
 |  | Project and Submission Details Announced |
-| TBD | Tentative additional talk(s) |
 | Wednesday, Nov 9 | Submissions Due |
 | Friday, Nov 11 | Submissions Presented and Winners Announced |
 
