@@ -24,12 +24,12 @@ Please direct any logistical questions to our club email, quantum.ucla@gmail.com
 ## Schedule
 | Date | Event |
 | --- | --- |
-| Friday, Oct 28 | Intro to Qiskit Workshop, held by QCB |
+| Friday, Oct 28 2:00 PM | Intro to Qiskit Workshop, held by QCB |
 | Friday, Oct 28 | Registration Deadline |
 | Monday, Oct 31 4:40 PM | Project and Submission Details Announced |
 | Monday, Oct 31 5:00 PM | Talk by Kevin Roche from IBM Research Almaden |
 | Wednesday, Nov 9 | Submissions Due |
-| Friday, Nov 11 | Submissions Presented and Winners Announced |
+| TBA | Submissions Presented and Winners Announced |
 
 --------------------------------
 ## [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
