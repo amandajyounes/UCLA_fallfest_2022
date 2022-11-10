@@ -1,33 +1,22 @@
-# UCLA 2022 Qiskit Fall Fest Hackathon
-## Overview
-This is the Qiskit Fall Fest event for UCLA hosted by our Quantum Computing Student Association ([QCSA](https://qcsa.cqse.ucla.edu/)). The event is organized by our leadership team as part of the [Qiskit Fall Fest](https://medium.com/qiskit/introducing-the-qiskit-fall-fest-feb8456b557) and supported by IBM Quantum.
+# Linear Regression with Quantum vs Classic
+## Team BruWINS: Chaitanya Bashyam, Sivaji Turimella, Arnav Garg, Nishant Jain
 
-Our hackathon will run from Oct 31, 2022 to Sept 9, 2022, and we're welcoming students and teams from both UCLA and UC Berkeley in collaboration with UC Berkeley's undergraduate quantum computing group, [QCB](https://qcb.berkeley.edu/). No experience with quantum programming is necessary, and participating is a great way to learn about Qiskit and meet others interested in quantum computing!
+**Problem Description:** Coming with a background of CS, Stats and Physics, we wanted to find a problem that worked with all of our strengths. We wanted to create a linear regression model with Quantum Computing and Classical Computing to compare performances. We built a Simple Linear Regression model predicting Son's height from their Father's height (Dataset: Freedman D, Pisani R, Purves R. (2007). Statistics (4th edition). Norton.).
 
-All hackathon information will be posted here.
+**Strengths/Accomplishments:**
 
-Please direct any logistical questions to our club email, quantum.ucla@gmail.com
+ - able to create a simple linear regression model analytically 
+   + employed a quasi gradient descent algorithm to minimize the loss function
 
---------------------------------
-## Registration
-- This is a hackathon for UCLA and UC Berkeley students only
-- Signups are now closed and groups have been sent out
+**Challenges/Future Abilities:**
 
-## Details
-- All projects must use Qiskit, the open-source SDK for working with quantum computers at the level of pulses, circuits, and application modules. You can learn more about Qiskit and begin getting familiar [here](https://qiskit.org/learn/)
-- You cannot start your project before the start date on Oct 31, and you must submit by the deadline of Nov 9 at 11:59 PM
-- On the start date, we will have a kickoff event describing project and submission details and taking any logistical quesitons. A zoom link will be sent out by email a few days before the event.
+ - loss function is still very high - not able to get to zero
+ - not able to do multiple regression
+      + Future reference: https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/iet-qtc.2020.0013
 
---------------------------------
-## Schedule
-| Date | Event |
-| --- | --- |
-| CANCELLED | Intro to Qiskit Workshop |
-| Friday, Oct 28 | Registration Deadline |
-| Monday, Oct 31 4:40 PM | Project and Submission Details Announced |
-| Monday, Oct 31 5:00 PM | Talk by Kevin Roche from IBM Research Almaden |
-| Wednesday, Nov 9 | Submissions Due |
-| TBA | Submissions Presented and Winners Announced |
+**Sources:**
 
---------------------------------
-## [Qiskit Events Code of Conduct](https://github.com/Qiskit/qiskit/blob/master/CODE_OF_CONDUCT.md)
+ - Reference for building the Quantum Regression: Neural Network Classifier & Regressor in Qiskit documentation
+    + URL: https://qiskit.org/documentation/machine-learning/tutorials/02_neural_network_classifier_and_regressor.html#Regression
+ - Data Source: Pearson K and Lee A. (1903). On the laws of inheritance in man. Biometrika, 2:357-462.
+    + URL: https://s3.amazonaws.com/pbreheny-data-sets/pearson.txt
